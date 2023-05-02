@@ -23,6 +23,6 @@ I also considered the role of the "race" variable as a protected feature, which 
 
 ## Fair Classifier
 
-Finally, I experimented with a fair classifier designed to achieve demographic parity or equal opportunity. I observed the tradeoff between accuracy/AUC/F-measure and the fairness objective.
+Finally, I experimented with a fair classifier designed to achieve demographic parity or equal opportunity. I observed the tradeoff between accuracy/F-measure and the fairness objective.
 
 Please refer to the code and documentation in this repository for more details about the project.
